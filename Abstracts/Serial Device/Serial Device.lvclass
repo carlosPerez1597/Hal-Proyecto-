@@ -86,13 +86,13 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 		</Item>
 		<Item Name="initialaize.vi" Type="VI" URL="../initialaize.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%B!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;6.F=GFB&lt;#"%:8:J9W5O&lt;(:D&lt;'&amp;T=Q!25W6S;7&amp;M)%2F&gt;GFD:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!S1(!!(A!!&amp;R64:8*J97QA2'6W;7.F,GRW9WRB=X-!%&amp;.F=GFB&lt;#"%:8:J9W5A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!((!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;6.F=GFB&lt;#"%:8:J9W5O&lt;(:D&lt;'&amp;T=Q!25W6S;7&amp;M)%2F&gt;GFD:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!?!$@`````!!1A!)!!!!!!!1!%!!!!!1!!!!!!!!!S1(!!$A6*&lt;H.U=A!"!!=A!)!!!!!!!1!%!!!!!1!!!!!!!!V7;8.B)'.P&lt;3"Q&lt;X*U!&amp;9!]&gt;PS.\-!!!!#&amp;6.F=GFB&lt;#"%:8:J9W5O&lt;(:D&lt;'&amp;T=R&gt;T:8*J97QA:'6W;7.F)'*S97ZE,G.U&lt;!!A1$$`````%V.F=GFB&lt;#"%:8:J9W5A1H*B&lt;G1!-E"Q!"Y!!"=65W6S;7&amp;M)%2F&gt;GFD:3ZM&gt;G.M98.T!""4:8*J97QA2'6W;7.F)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!)!!E!#A-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!A!!!))!!!!EA!!!!!"!!M!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
 		<Item Name="serial device brand.ctl" Type="VI" URL="../../../implementations/Combo box/serial device brand.ctl">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"?!!!!!1"7!0(&lt;]D?T!!!!!B64:8*J97QA2'6W;7.F,GRW9WRB=X-8=W6S;7&amp;M)'2F&gt;GFD:3"C=G&amp;O:#ZD&gt;'Q!)%!Q`````R.4:8*J97QA2'6W;7.F)%*S97ZE!!%!!!!!!!!</Property>
