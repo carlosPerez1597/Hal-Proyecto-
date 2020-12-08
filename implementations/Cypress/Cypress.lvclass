@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="20008000">
+	<Property Name="NI.Lib.Description" Type="Str">Clase del microcontrolador Cypress</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+.!!!*Q(C=\:5R&lt;F."%)&lt;`BZ"Q3N]!7;]#+C9.(96L&gt;R9.6%BTA+4Q#QW/&amp;#G_QEDJED27&lt;O!LT"6=U`E+ZNP.%K8#"521:.=T@PZX:_:\O[OV6.N)?KH^I4&lt;]NBU=`X9Z_T!&lt;\/4Y^PSSR[VGO/7&lt;U@GHG\[Y@@?W7\Y\'WQW(*XA2G?YA9$B66^=S8_U\I=3V2`@X&gt;U5N_Y\O\OO&lt;N`.B_\\-.R(T&lt;IP@8V[XZ/O//I`(B^'VW1[HYUO36@=H\\@Q@%$4=`NO@X&lt;NDRY3*`]T(9K&amp;R'77'#/G5KJ@;)H?K)H?K)H?K!(?K!(?K!(OK-\OK-\OK-\OK%&lt;OK%&lt;OK%&lt;?OXI1B?[U%&amp;+CC?&amp;EK2*AG1S+%J=QJ0Q*$Q*$T_6]#1]#5`#E`!Q21F0QJ0Q*$Q*$W&amp;+?"+?B#@B38B)65GS&gt;H2Y%B\3+_!*?!+?A#@AI;1#HA!A+"9E$J+!I7!Q?!BY!J[!BU=&amp;0!&amp;0Q"0Q"$Q-+_!*?!+?A#@A);3O3F3;UN(B)9U=(I@(Y8&amp;Y("Z3S_&amp;R?"Q?B]@BI:Q=(I@(A8!+/MF"E"0E4("_/$Q/$V^S?"Q?B]@B=8A9KDPE&gt;75+4?HI]"A]"I`"9`!90+31Q70Q'$Q'D]&amp;$7BE]"I`"9`!90*33Q70Q'$Q'C&amp;'5]D+3'9('*%-Q?0D5UW*VF[+37/V3/\RKBV,NM+E&gt;)L8$I&lt;&lt;J;JOJNEFKC[_WK'K,J&lt;9);C_H"KU'IV:%,&lt;B-V![`R4&lt;9'FNB#WS/4&lt;%*.C[B@XHC&lt;L@4&gt;LP6:L02?LX7;L839L(1@$\8&gt;$L6:$,2?$R_O!:?UR]OB0N\;=FTM9_H6\?FS-8JV&gt;=,,3HS_=?PM7*0^&amp;`[(^S.?K((?6GDH\&lt;EI4U!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>
