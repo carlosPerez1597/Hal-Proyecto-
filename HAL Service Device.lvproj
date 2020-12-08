@@ -16,9 +16,7 @@
 		<Item Name="DQMH module Module" Type="Folder">
 			<Item Name="DQMH module.lvlib" Type="Library" URL="../Libraries/DQMH module/DQMH module.lvlib"/>
 		</Item>
-		<Item Name="implementations" Type="Folder" URL="../implementations">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
+		<Item Name="implementations" Type="Folder"/>
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test DQMH module API.vi" Type="VI" URL="../Libraries/DQMH module/Test DQMH module API.vi"/>
 		</Item>
@@ -93,6 +91,9 @@
 				<Item Name="Wait at Rendezvous.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/Wait at Rendezvous.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Arduino.lvclass" Type="LVClass" URL="../implementations/Arduino/Arduino.lvclass"/>
+			<Item Name="Cypress.lvclass" Type="LVClass" URL="../implementations/Cypress/Cypress.lvclass"/>
+			<Item Name="Simulado.lvclass" Type="LVClass" URL="../implementations/Simulado/Simulado.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
